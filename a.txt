@@ -1,0 +1,5 @@
+git push -u (저장소주소) main > github에 등록
+
+매번 github에 push 할때 길게 쓰지말고 (저장소주소)를 변수에 넣고 쓴다
+
+git remote add (변수명) (저장소주소)
